@@ -1,0 +1,19 @@
+Return-Path: <order-update@amaz0n-support.com>
+Received: from mail.amaz0n-support.com (unknown [185.203.112.14])
+    by smtp.gmail.com with ESMTPS id f12si239102qkl.312.2025.11.15.09.12.04
+    for <mayur@example.com>
+    (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+    Sat, 15 Nov 2025 09:12:04 +0530
+Received-SPF: softfail (gmail.com: domain of transitioning order-update@amaz0n-support.com does not designate 185.203.112.14 as permitted sender)
+Authentication-Results: mx.google.com;
+    spf=softfail (google.com: domain amaz0n-support.com does not designate permitted senders) smtp.mailfrom=order-update@amaz0n-support.com
+    dkim=none (no signature);
+    dmarc=fail (p=REJECT sp=REJECT) header.from=amaz0n-support.com
+MIME-Version: 1.0
+Date: Sat, 15 Nov 2025 09:12:04 +0530
+Message-ID: <20251115091204.ABC123DEF@mail.amaz0n-support.com>
+From: "Amazon Support" <order-update@amaz0n-support.com>
+To: mayur@example.com
+Subject: URGENT: Your Amazon Order #5478123 — Action Required
+Reply-To: support@amazon.com
+Content-Type: text/html; charset="UTF-8"

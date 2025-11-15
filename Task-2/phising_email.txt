@@ -1,0 +1,27 @@
+From: "Amazon Support" <order-update@amaz0n-support.com>
+Reply-To: support@amazon.com
+To: mayur@example.com
+Subject: URGENT: Your Amazon Order #5478123 — Action Required
+Date: Sat, 15 Nov 2025 09:12:04 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We were unable to process payment for your recent order <b>#5478123</b>. Your order will be cancelld within 24 hours unless you verify your payment details now.</p>
+
+<p><a href="http://amaz0n-secure-checkout.xyz/login?uid=5478123">Track Your Order & Verify Payment</a></p>
+
+<p>To avoid order cancellation and account suspension, click the link above and sign in to confirm your billing information.</p>
+
+<p>Note: For your security, failure to verify may result in permanent suspension of your account.</p>
+
+<p>Kind regards,<br>
+Amazon Support Team</p>
+
+<p><small>Attached: Invoice_5478123.pdf</small></p>
+
+</body>
+</html>
